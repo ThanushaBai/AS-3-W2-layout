@@ -1,4 +1,4 @@
-import Button from "@/components/Button";
+import AnimatedButton from "@/components/Button";
 
 export default function AboutPage() {
   return (
@@ -8,7 +8,7 @@ export default function AboutPage() {
       <p> Start your digital journey here. we provide Smart digital solutions for growing businesses.</p>
 
       <br />
-      <Button />
+      <AnimatedButton />
     </div>
   );
 }

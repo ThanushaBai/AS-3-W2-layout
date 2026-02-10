@@ -1,4 +1,4 @@
-import Button from "@/components/Button";
+import AnimatedButton from "@/components/Button";
 
 export default function HomePage() {
   return (
@@ -8,7 +8,7 @@ export default function HomePage() {
       <p> Everything your business needs online.</p>
 
       <br />
-      <Button />
+      <AnimatedButton />
     </div>
   );
 }
